@@ -10,4 +10,4 @@ Estoy aprendiendo Git.
 
 Estoy aprendiendo Git y GitHub paso a paso
 
-Estot probando las ramas Git
+Estoy probando las ramas Git
